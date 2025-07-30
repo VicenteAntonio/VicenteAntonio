@@ -167,7 +167,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <h4>📱 App Móvil Almanax Dofus Touch</h4>
         <p>Aplicación de gestión de almanax para Dofus Touch</p>
         <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="En Desarrollo"/>
@@ -176,7 +176,7 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo"/>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <h4>🌐 Plataforma Web Almanax Dofus</h4>
         <p>Plataforma web para gestión de almanax para Dofus Touch</p>
         <img src="https://img.shields.io/badge/Estado-Desarrollo-orange?style=for-the-badge" alt="Desarrollo"/>
@@ -185,7 +185,9 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
       </td>
-      <td align="center" width="33%">
+    </tr>
+    <tr>
+      <td align="center" width="50%">
         <h4>🧠 Página Web Mente en Balance</h4>
         <p>Sitio web corporativo para servicios de bienestar mental</p>
         <img src="https://img.shields.io/badge/Estado-Diseño-blue?style=for-the-badge" alt="Diseño"/>
@@ -193,6 +195,15 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </td>
+      <td align="center" width="50%">
+        <h4>💰 Perfil Notion - Gestión Financiera</h4>
+        <p>Template de Notion para control de finanzas mensuales</p>
+        <img src="https://img.shields.io/badge/Estado-Planificación-purple?style=for-the-badge" alt="Planificación"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion"/>
+        <img src="https://img.shields.io/badge/Templates-FF6B6B?style=flat&logo=template&logoColor=white" alt="Templates"/>
+        <img src="https://img.shields.io/badge/Finance-4CAF50?style=flat&logo=calculator&logoColor=white" alt="Finance"/>
       </td>
     </tr>
   </table>
