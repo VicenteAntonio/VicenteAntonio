@@ -9,7 +9,7 @@
   <p>
     <img src="https://img.shields.io/badge/Ingeniero-Civil%20de%20Industrias-blue?style=for-the-badge" alt="Ingeniero Civil de Industrias"/>
     <img src="https://img.shields.io/badge/Diploma-Ingeniería%20de%20Computación-purple?style=for-the-badge" alt="Diploma en Ingeniería de Computación"/>
-    <img src="https://img.shields.io/badge/Ubicación-España-red?style=for-the-badge" alt="Ubicación"/>
+    <img src="https://img.shields.io/badge/Ubicación-Chile-red?style=for-the-badge" alt="Ubicación"/>
   </p>
   
   <p>
