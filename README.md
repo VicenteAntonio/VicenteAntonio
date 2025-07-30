@@ -165,15 +165,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/VicenteAntonio/dofus-almanax-mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VicenteAntonio&repo=dofus-almanax-mobile&theme=default&hide_border=true" alt="App Móvil Almanax Dofus"/>
-  </a>
-  <a href="https://github.com/VicenteAntonio/dofus-almanax-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VicenteAntonio&repo=dofus-almanax-web&theme=default&hide_border=true" alt="Plataforma Web Almanax"/>
-  </a>
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
