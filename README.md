@@ -7,34 +7,16 @@
 <div align="center">
   <h2>🚀 Sobre mí</h2>
   <p>
-    <img src="https://img.shields.io/badge/Desarrollador-Full%20Stack-blue?style=for-the-badge" alt="Software Engineer"/>
+    <img src="https://img.shields.io/badge/Ingeniero-Civil%20de%20Industrias-blue?style=for-the-badge" alt="Ingeniero Civil de Industrias"/>
+    <img src="https://img.shields.io/badge/Diploma-Ingeniería%20de%20Computación-purple?style=for-the-badge" alt="Diploma en Ingeniería de Computación"/>
     <img src="https://img.shields.io/badge/Ubicación-España-red?style=for-the-badge" alt="Ubicación"/>
-    <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-green?style=for-the-badge" alt="Estado"/>
+  </p>
+  
+  <p>
+    <strong>Ingeniero Civil de Industrias</strong> con <strong>Diploma en Ingeniería de Computación</strong><br/>
+    Apasionado por la tecnología y la innovación en el desarrollo de software
   </p>
 </div>
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🎯 Actualmente</h3>
-      <ul>
-        <li>🔭 Trabajando en proyectos personales</li>
-        <li>🌱 Aprendiendo nuevas tecnologías</li>
-        <li>👯 Buscando colaborar en proyectos open source</li>
-        <li>💡 Explorando AI/ML y desarrollo web moderno</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>⚡ Datos curiosos</h3>
-      <ul>
-        <li>☕ El café es mi combustible principal</li>
-        <li>🎮 Gamer en mis tiempos libres</li>
-        <li>📚 Siempre aprendiendo algo nuevo</li>
-        <li>🌟 Me encanta resolver problemas complejos</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
