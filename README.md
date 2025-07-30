@@ -69,6 +69,27 @@
       <br/><sub><b>Linux</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+      <br/><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+      <br/><sub><b>C</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+      <br/><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/>
+      <br/><sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="100">
+      <!-- Espacio para mantener la estructura -->
+    </td>
+  </tr>
 </table>
 
 ---
