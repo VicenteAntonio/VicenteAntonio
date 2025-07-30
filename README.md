@@ -170,7 +170,7 @@
       <td align="center" width="50%">
         <h4>📱 App Móvil Almanax Dofus Touch</h4>
         <p>Aplicación de gestión de almanax para Dofus Touch</p>
-        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="En Desarrollo"/>
+        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="Desarrollo"/>
         <br/>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -179,7 +179,7 @@
       <td align="center" width="50%">
         <h4>🌐 Plataforma Web Almanax Dofus</h4>
         <p>Plataforma web para gestión de almanax para Dofus Touch</p>
-        <img src="https://img.shields.io/badge/Estado-Desarrollo-orange?style=for-the-badge" alt="Desarrollo"/>
+        <img src="https://img.shields.io/badge/Estado-Desarrollo-yellow?style=for-the-badge" alt="Desarrollo"/>
         <br/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
