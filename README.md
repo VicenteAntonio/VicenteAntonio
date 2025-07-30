@@ -160,6 +160,56 @@
 ---
 
 <div align="center">
+  <h2>🚧 Proyectos en Desarrollo</h2>
+  <p><em>Proyectos actuales en los que estoy trabajando</em></p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/VicenteAntonio/dofus-almanax-mobile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VicenteAntonio&repo=dofus-almanax-mobile&theme=default&hide_border=true" alt="App Móvil Almanax Dofus"/>
+  </a>
+  <a href="https://github.com/VicenteAntonio/dofus-almanax-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VicenteAntonio&repo=dofus-almanax-web&theme=default&hide_border=true" alt="Plataforma Web Almanax"/>
+  </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h4>📱 App Móvil Almanax Dofus Touch</h4>
+        <p>Aplicación de gestión de almanax para Dofus Touch</p>
+        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="En Desarrollo"/>
+        <br/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo"/>
+      </td>
+      <td align="center" width="33%">
+        <h4>🌐 Plataforma Web Almanax Dofus</h4>
+        <p>Plataforma web para gestión de almanax para Dofus Touch</p>
+        <img src="https://img.shields.io/badge/Estado-Desarrollo-orange?style=for-the-badge" alt="Desarrollo"/>
+        <br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </td>
+      <td align="center" width="33%">
+        <h4>🧠 Página Web Mente en Balance</h4>
+        <p>Sitio web corporativo para servicios de bienestar mental</p>
+        <img src="https://img.shields.io/badge/Estado-Diseño-blue?style=for-the-badge" alt="Diseño"/>
+        <br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
   <h2>🤝 Contactos</h2>
   
   <p>
