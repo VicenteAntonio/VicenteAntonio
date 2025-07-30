@@ -153,13 +153,6 @@
 ---
 
 <div align="center">
-  <h2>🏆 Trofeos de GitHub</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=VicenteAntonio&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trofeos"/>
-</div>
-
----
-
-<div align="center">
   <h2>📈 Gráfico de Actividad</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicenteAntonio&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="Gráfico de Actividad"/>
 </div>
