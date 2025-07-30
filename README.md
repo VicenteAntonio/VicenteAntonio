@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+Vicente+Antonio;Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Bienvenido+a+mi+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Bienvenido a mi perfil;Desarrollador+de+software;¡Dofus el mejor juego!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -146,21 +146,6 @@
 ---
 
 <div align="center">
-  <h2>🌟 Proyectos Destacados</h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/VicenteAntonio/proyecto-destacado-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VicenteAntonio&repo=proyecto-destacado-1&theme=default&hide_border=true" alt="Proyecto 1"/>
-  </a>
-  <a href="https://github.com/VicenteAntonio/proyecto-destacado-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VicenteAntonio&repo=proyecto-destacado-2&theme=default&hide_border=true" alt="Proyecto 2"/>
-  </a>
-</div>
-
----
-
-<div align="center">
   <h2>🤝 Conecta conmigo</h2>
   
   <p>
@@ -179,21 +164,3 @@
   </p>
 </div>
 
----
-
-<div align="center">
-  <h3>💡 "El código es poesía, y cada bug es una oportunidad de mejora"</h3>
-  
-  <img src="https://komarev.com/ghpvc/?username=VicenteAntonio&label=Visitas%20al%20perfil&color=brightgreen&style=flat" alt="Contador de visitas"/>
-  
-  <br/><br/>
-  
-  <sub>⭐ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repositorios!</sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
-</div>
